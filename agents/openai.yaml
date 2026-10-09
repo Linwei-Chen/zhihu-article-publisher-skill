@@ -1,0 +1,7 @@
+interface:
+  display_name: "Zhihu Article Publisher"
+  short_description: "Publish Markdown with images and formulas to Zhihu"
+  default_prompt: "Use $zhihu-article-publisher to publish my Markdown article to Zhihu."
+
+policy:
+  allow_implicit_invocation: true
